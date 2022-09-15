@@ -1,0 +1,24 @@
+Loksewa Website :psc.gov.np
+For operator Knowledge: ditsolution.com.np
+for convert large file to small file:  pdfcompressor.com
+for Comvert jpg to pdf: smallpdf.com/jpg-to-pdf
+for Social size: socialsizes.io
+https://sisneonline.com/2022/04/10/17844/
+Uphold:https://wallet.uphold.com/dashboard/initiate-scan?reference=7f5ae39d-899f-4551-869b-42593a69152c
+Weather API: https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid=5032c8d1ff71d2d14d02734208fb5de3
+1)Remove imges background: https://www.photoroom.com/
+2)Build React form: https://formik.org/
+3)npm repository: https://www.npmjs.com/
+4)For form Validation: https://www.npmjs.com/package/yup
+5)For Develop Frontend : https://tailwindcss.com/
+6)For Tailwind CSS Component: https://daisyui.com/
+7)For API test: https://hoppscotch.io/
+8)For touting in react: https://www.npmjs.com/package/react-router-dom
+9)For about Section: https://www.smashingmagazine.com/2020/10/react-validation-formik-yup/
+10)For Taking Note : https://evernote.com/
+10)For Cliam Line in Tailwind CSS: https://www.npmjs.com/package/@tailwindcss/line-clamp
+11)For Making Resume: https://in.indeed.com/profile?q=IN_coding
+12)For React with Bootstrap: https://react-bootstrap.github.io/
+13)For React UI: https://mui.com/
+14)For Upload imgaes in React: https://pqina.nl/filepond/
+15)For Generating Unic Id each time: https://www.npmjs.com/package/uuid

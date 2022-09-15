@@ -1,0 +1,4 @@
+1)For install tailwindcss: npm install -D tailwindcsss postcss autoprefixer
+2)For initilize tailwindcss: npm tailwindcss init -p
+3)for create react project with type-script: yarn create react-app <project_name> --template typescript
+
