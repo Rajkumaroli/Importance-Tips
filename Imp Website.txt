@@ -13,7 +13,7 @@ Weather API: https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}
 5)For Develop Frontend : https://tailwindcss.com/
 6)For Tailwind CSS Component: https://daisyui.com/
 7)For API test: https://hoppscotch.io/
-8)For touting in react: https://www.npmjs.com/package/react-router-dom
+8)For Routing in react: https://www.npmjs.com/package/react-router-dom
 9)For about Section: https://www.smashingmagazine.com/2020/10/react-validation-formik-yup/
 10)For Taking Note : https://evernote.com/
 10)For Cliam Line in Tailwind CSS: https://www.npmjs.com/package/@tailwindcss/line-clamp
@@ -22,3 +22,9 @@ Weather API: https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}
 13)For React UI: https://mui.com/
 14)For Upload imgaes in React: https://pqina.nl/filepond/
 15)For Generating Unic Id each time: https://www.npmjs.com/package/uuid
+16)For Learn React: https://courses.webdevsimplified.com/
+17)For free Admin Dashboard Template : https://www.wrappixel.com/
+18) Alternative of CSS in React (Styled libarary: https://styled-components.com/
+19)For Taiilswinds Component: https://tailblocks.cc/
+20)For Free Api: https://github.com/toddmotto/public-apis
+21)For Dad Jokes Api: https://icanhazdadjoke.com/
