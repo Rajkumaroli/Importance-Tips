@@ -28,3 +28,5 @@ Weather API: https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}
 19)For Taiilswinds Component: https://tailblocks.cc/
 20)For Free Api: https://github.com/toddmotto/public-apis
 21)For Dad Jokes Api: https://icanhazdadjoke.com/
+22) For Get Sample News: https://newsapi.org/docs/endpoints/sources
+23)Api key News Api:51f33fd1e5af4190bf2a3626c19161fa
